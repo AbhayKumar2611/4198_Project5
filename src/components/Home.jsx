@@ -44,6 +44,7 @@ const Home = () => {
           <p className="text-center">
             &copy; 2025 Your Brand Name. All rights reserved.
           </p>
+          <p>abcd</p>
         </footer>
       </div>
     </div>
