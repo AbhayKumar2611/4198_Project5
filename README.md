@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# QuizApp - Dynamic Quiz Application :video_game:
+Welcome to **QuizApp**, a dynamic quiz application built with **React** and **Firebase**! This project has been a fun and challenging journey where I implemented features like user authentication, random quizzes, and a competitive leaderboard system.
+## Demo Links :rocket:
+- Live Demo: [Watch Live](https://happynewquiz.netlify.app/)
